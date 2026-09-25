@@ -1,10 +1,10 @@
-# Project Title
+## BenBot
 
 Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+My AI Chatbot will help with projects, respond to all types of questions, and will provide me with intelligent coding assistance when coding.
 
 ## Getting Started
 
